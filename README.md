@@ -7,7 +7,7 @@ I am a **National Technical University of Athens (NTUA)** graduate with a 5-year
 
 ---
 
-### From Physics to Algorithms
+### From Engineering to Algorithms
 As a **Research Associate at NTUA**, I worked on high-impact transportation projects utilizing Machine Learning and Data Science to solve real-world mobility challenges. This experience shifted my focus: I realized that to build the future of **Physical AI**, I needed to master the **science of computing**—not just the application of tools.
 
 I am currently pursuing my **second degree (B.Sc. in Computer Science)** at Maastricht University to build a world-class foundation in software engineering, algorithms, and systems architecture.
